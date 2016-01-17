@@ -45,7 +45,9 @@ First let us place Python programming in the context of the computer hardware. A
 No computer understands the high-level instruction directly; it is not in machine language. A special program must ﬁrst translate instructions like this one into machine language. This one high-level instruction might be translated into a sequence of three machine language instructions corresponding to the three step description above:
 
 0000010010000001 
+
 0000000010000010 
+
 0000010110000011
 
 Obviously high-level languages were a great advance in clarity!
