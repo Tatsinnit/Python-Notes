@@ -68,7 +68,7 @@ If you have chocolatey package manager: https://chocolatey.org/ installed then t
 First program
 From console type “Python”
 
-{code}
+```
 $>python
 Python 3.4.3 (v3.4.3:9b73f1c3e601, Feb 24 2015, 22:44:40) [MSC v.1600 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
@@ -81,7 +81,7 @@ joys
 1
 >>> if my_first_python_script:
 ...
-{code}
+```
 
 ## Videos
 
