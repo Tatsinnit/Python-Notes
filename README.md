@@ -1,5 +1,5 @@
 # Python-Notes
-Python notes, as I flirt with this amazing language
+*(Python notes, as I flirt with this amazing language)*
 
 I am currently flirting with this programming language and understanding how types and flow is handled in this language, my initial take is its ease and thoughtfulness this language is designed for. It does sound like perfect agile programming language[3].
 
