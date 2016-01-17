@@ -77,6 +77,11 @@ joys
 ...
 {code}
 
+## Videos
+
+* https://www.youtube.com/watch?v=GS84YRHhr_g 
+* Guido: https://www.youtube.com/watch?v=ugqu10JV7dk
+
 ## Reference:
 
 [ 1 ]  http://anh.cs.luc.edu/python/hands-on/3.1/Hands-onPythonTutorial.pdf 
