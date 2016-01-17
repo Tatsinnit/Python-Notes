@@ -53,7 +53,9 @@ Obviously high-level languages were a great advance in clarity!
 ## Why python?	
 
 Few best reasons: http://pythoncard.sourceforge.net/what_is_python.html 
+
 "Python is an open-source object-oriented programming language that offers two to ten fold programmer productivity increases over languages like C, C++, Java, C#, Visual Basic (VB), and Perl."
+
 “This was my most dramatic Python moment. But, when all is said and done, it was just a clever hack. The long-term usefulness of a language comes not in its ability to support clever hacks, but from how well and how unobtrusively it supports the day-to-day work of programming. The day-to-day work of programming consists not of writing new programs, but mostly reading and modifying existing ones.”
 
 ## Installation:
