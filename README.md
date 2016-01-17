@@ -80,8 +80,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 joys
 >>> my_first_python_script
 1
->>> if my_first_python_script:
-...
+
 ```
 
 ## Videos
