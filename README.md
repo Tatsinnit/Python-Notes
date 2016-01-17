@@ -1,6 +1,8 @@
 # Python-Notes
 *(Python notes, as I flirt with this amazing language)*
 
+### Intro 101 Notes
+
 I am currently flirting with this programming language and understanding how types and flow is handled in this language, my initial take is the ease and thoughtfulness this language is designed for. It does sound like perfect agile programming language[3].
 
 Here's the working list for what I'm calling agile programming languages. [3]
