@@ -8,6 +8,7 @@ The awesomeness of this language is residing in the 5though behind its creation 
 
 In a weakly typed language, variables can be implicitly coerced to unrelated types, whereas in a strongly typed language they cannot, and an explicit conversion is required. (Note that I said unrelated types. Most languages will allow implicit coercions between related types — for example, the addition of an integer and a float. By unrelated types I mean things like numbers and strings.) In a typical weakly typed language, the number 9 and the string “9” are interchangeable, and the following sequence of statements is legal. [1]
 
+{code}
 a  = 9
 
 b = "9"
@@ -15,6 +16,7 @@ b = "9"
 c = concatenate(a, b)  // produces "99"
 
 d = add(a, b)          // produces 18
+{code}
 
 My next few notes will be mainly around data flow, extensibility and structure available in Python.
 
